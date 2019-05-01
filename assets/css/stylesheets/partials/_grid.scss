@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    flex-flow: row nowrap;
+    padding: $container-paddings;
+}
+.container.items-centered {
+    justify-content: center;
+    align-items: center;
+}
