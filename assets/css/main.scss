@@ -1,4 +1,12 @@
+// TODO : - move fonts to a new folder
+
 @charset "utf-8";
+
+// Fonts
+@font-face {
+    font-family: "Popping Regular";
+    src: url("../fonts/Poppins-Regular.ttf");
+}
 
 // Modules and Variables
 @import "stylesheets/partials/base";
